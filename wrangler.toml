@@ -1,4 +1,4 @@
-name = "jagoanpedia-sosmed-worker"
+name = "pedia"
 workers_dev = true
 compatibility_date = "2025-08-12"
 main = "worker.js"
